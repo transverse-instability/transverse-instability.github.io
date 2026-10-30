@@ -5,3 +5,10 @@
 *.synctex.gz
 .DS_Store
 build/
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.toc
+*.nav
+*.snm
