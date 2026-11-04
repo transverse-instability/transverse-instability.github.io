@@ -136,3 +136,6 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; }
 .menu { margin: 0.4em 0 0; color: #6b6b6b; }
 .menu a.current { color: #1a1a1a; }
 .menu .sep { margin: 0 0.45em; color: #b8ada0; }
+
+/* Tumbleweed at the end of the digested text */
+.tumbleweed img { max-width: 100%; margin: 2.5em auto 0; }
