@@ -1,0 +1,37 @@
+{
+  "title": "Statistical instability of a stochastically forced shear",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>For a fixed elongated rectangular torus and forcing in the single vorticity mode sin y, the stochastically forced two-dimensional Navier–Stokes equations have, at sufficiently small viscosity, an ergodic invariant measure not supported on shear flows.</p><p>This release archives the project website, which contains a digested account of the argument and the full raw proof. The raw proof was written by an AI model and has not been checked by a human.</p><p>Project website: <a href=\"https://transverse-instability.github.io/\">https://transverse-instability.github.io/</a>. The project is listed on mathStoa, an archive for open mathematical research projects: <a href=\"https://math-stoa.org/\">https://math-stoa.org/</a>.</p>",
+  "creators": [
+    {
+      "name": "Rosati, Tommaso",
+      "affiliation": "Imperial College London",
+      "orcid": "0000-0001-5255-6519"
+    },
+    {
+      "name": "Punshon-Smith, Sam",
+      "affiliation": "Tulane University",
+      "orcid": "0000-0003-1827-220X"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "stochastic Navier-Stokes equations",
+    "shear flow",
+    "invariant measure",
+    "ergodicity",
+    "stochastic forcing",
+    "two-dimensional fluids",
+    "AI-assisted research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://transverse-instability.github.io/",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
